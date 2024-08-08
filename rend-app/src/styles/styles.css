@@ -1,0 +1,9 @@
+.user-list {
+    margin-top: 20px;
+}
+
+.user {
+    padding: 10px;
+    border: 1px solid #ccc;
+    margin-bottom: 5px;
+}

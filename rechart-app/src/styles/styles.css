@@ -1,0 +1,9 @@
+.recharts-wrapper {
+    margin: 20px auto;
+    padding: 10px;
+}
+
+.ResponsiveContainer {
+    width: 100%!important;
+    height: 400px!important;
+}
